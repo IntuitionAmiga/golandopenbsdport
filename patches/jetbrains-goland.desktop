@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=GoLand
+Icon=/usr/local/goland/bin/goland.svg
+Exec="/usr/local/goland/bin/go.sh" %f
+Comment=Cross-platform IDE built specially for Go developers
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-goland
+StartupNotify=true
+Path=
